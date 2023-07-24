@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-![dekstop](./screenshots/dekstop.png)
+![desktop](./screenshots/desktop.png)
 ![mobile](./screenshots/mobile.png)
 
 
