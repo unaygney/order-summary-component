@@ -13,7 +13,7 @@ Users should be able to:
 ### Screenshot
 
 ![dekstop](./screenshots/dekstop.png)
-![mobile](./screenshot/mobile.png)
+![mobile](./screenshots/mobile.png)
 
 
 - Solution URL: [Solution URL here](https://github.com/unaygney/order-summary-component)
